@@ -62,12 +62,7 @@ flutter:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
   assets:
-    - images/ayran.jpeg
-    - images/fanta.jpeg
-    - images/kofte.jpeg
-    - images/kola.jpeg
-    - images/makarna.jpeg
-
+    - images/
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
 
